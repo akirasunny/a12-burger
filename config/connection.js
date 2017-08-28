@@ -11,7 +11,7 @@ else{
 	user: "root",
 	password: "hacktheplanet",
 	database: "todoagain_db"
-	});
+	})
 };
 
 connection.connect(function(err) {
